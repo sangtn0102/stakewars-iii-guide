@@ -304,6 +304,10 @@ Command:
 ```
 journalctl -n 100 -f -u neard
 ```
+
+![image](https://user-images.githubusercontent.com/107299476/181913696-93bd634a-66f7-442d-b0cf-a801e90e857e.png)
+
+
 Make log output in pretty print
 
 Command:
