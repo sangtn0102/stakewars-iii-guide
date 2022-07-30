@@ -33,7 +33,7 @@ Then wait a bit for the wallet creation process to complete.
 ![image](https://user-images.githubusercontent.com/107299476/181876331-8bfa2db7-1a65-42a8-8c01-c4389ce89019.png)
 
 
-Successful wallet creation, you will receive ~2000 NEAR to the wallet (this Testnet tokens have no value on Mainnet)
+Successful wallet creation, you will receive ~50 NEAR to the wallet (this Testnet tokens have no value on Mainnet)
 ## 2. Deploy the NEAR CLI
 
 NEAR-CLI is a command-line interface that communicates with the NEAR blockchain via remote procedure calls (RPC):
