@@ -15,7 +15,7 @@ Please see the hardware requirement below:
 
 The above is the minimum requirement for you to run node, you will need a computer running 24/7, you can use a personal computer, but I recommend you to use a service that also provides VPS.
 Below I have used Contabo's VPS, it is quite cheap compared to other VPS providers, the VPS configuration I have chosen is 8vCPU, 30GB RAM, 800GB SSD.
-In addition to Contabo, you can refer to other VPS service providers such as Google cloud, Hetzner, Vultr, Linode, Digital Ocean, ...
+In addition to Contabo, you can refer to other VPS service providers such as Amazon Web Services, Google cloud, Microsoft Azure, Hetzner, Vultr, Linode, Digital Ocean, ...
 
 ![image](https://user-images.githubusercontent.com/107299476/181902955-d7aea9bf-c40a-4c20-af2a-510ccbabb595.png)
 
