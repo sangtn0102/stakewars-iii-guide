@@ -137,6 +137,6 @@ near validators next
 ![image](https://user-images.githubusercontent.com/107299476/181877105-7d6f96bc-2e58-4fda-87bb-5fbfc2e6fd9b.png)
 
 ---
-## Next step?
+## Next step🚀
 
 [Setup and Run your Node](./2-setup-and-run-your-node.md)
