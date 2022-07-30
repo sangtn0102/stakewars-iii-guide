@@ -43,6 +43,8 @@ NEAR-CLI is a command-line interface that communicates with the NEAR blockchain 
 
 > Note: For security reasons, it is recommended that NEAR-CLI be installed on a different computer than your validator node and that no full access keys be kept on your validator node.
 
+Below I have installed NEAR-CLI on my personal Linux machine. This computer does not have any configuration requirements, and another computer used to run the validator has some minimal hardware requirements, which I will cover in a later post.
+
 First, let's make sure the linux machine is up-to-date.
 ```
 sudo apt update && sudo apt upgrade -y
@@ -137,4 +139,4 @@ near validators next
 ---
 ## Next step?
 
-[Setup and Run your Node](./setup-and-run-your-node.md)
+[Setup and Run your Node](./2-setup-and-run-your-node.md)
