@@ -213,6 +213,10 @@ Type in y and then press Enter to continue
 
 ![image](https://user-images.githubusercontent.com/107299476/181905880-2e560b10-690d-4f13-a078-2733241da49c.png)
 
+Note: In some cases you may see a page like this, this is normal, you can close it and go back to the console:
+
+![image](https://user-images.githubusercontent.com/107299476/182006025-ac8683ba-3d9c-4e94-90f2-b180ae8271e1.png)
+
 4 – Enter your wallet and press Enter
 
 ![image](https://user-images.githubusercontent.com/107299476/181905986-21d87e79-4d47-4222-8b24-70b277d0593a.PNG)
