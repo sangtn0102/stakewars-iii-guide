@@ -9,8 +9,8 @@ Please see the hardware requirement below:
 
 | Hardware       | Chunk-Only Producer  Specifications                                   |
 | -------------- | ---------------------------------------------------------------       |
-| CPU            | 4-Core CPU with AVX support                                           |
-| RAM            | 8GB DDR4                                                              |
+| CPU            | 8-Core CPU with AVX support                                           |
+| RAM            | >16GB DDR4 (recommended is 20+ GB)                                    |
 | Storage        | 500GB SSD                                                             |
 
 The above is the minimum requirement for you to run node, you will need a computer running 24/7, you can use a personal computer, but I recommend you to use a service that also provides VPS.
@@ -33,8 +33,17 @@ lscpu | grep -P '(?=.*avx )(?=.*sse4.2 )(?=.*cx16 )(?=.*popcnt )' > /dev/null \
 
 ##### Install developer tools:
 ```
-sudo apt install -y git binutils-dev libcurl4-openssl-dev zlib1g-dev libdw-dev libiberty-dev cmake gcc g++ python docker.io protobuf-compiler libssl-dev pkg-config clang llvm cargo
+sudo apt install -y git binutils-dev libcurl4-openssl-dev zlib1g-dev libdw-dev libiberty-dev cmake gcc g++ python3 docker.io protobuf-compiler libssl-dev pkg-config clang llvm cargo
 ```
+
+If you have problems with installing python or docker.io on Ubuntu, try this command:  
+
+```
+sudo apt install python3
+sudo apt install docker-ce
+```
+
+
 #####  Install Python pip:
 
 ```
